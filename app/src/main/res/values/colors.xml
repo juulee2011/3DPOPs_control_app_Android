@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#19499E</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorWhite">#FBFCFF</color>
+    <color name="gray_unselected">#D45B9D</color>
+
+    <color name="selected_background">#86BBD8</color>
+    <color name="button_default">#959182</color>
+    <color name="selected_background_LED1_5">#3599DB</color>
+    <color name="selected_background_LED1_10">#49ADE5</color>
+    <color name="selected_background_LED1_20">#5DC1EF</color>
+    <color name="selected_background_LED1_40">#71D5F9</color>
+    <color name="selected_background_LED2_5">#FFAA00</color>
+    <color name="selected_background_LED2_10">#FFBE14</color>
+    <color name="selected_background_LED2_20">#FFD228</color>
+    <color name="selected_background_LED2_40">#FFE63C</color>
+    <color name="default_background">#FFFFFF</color>
+</resources>

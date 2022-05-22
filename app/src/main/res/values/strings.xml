@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wireless Optogenetics</string>
+    <string name="available_addresses">Device Names</string>
+    <string name="available_names">Device Addresses</string>
+    <string name="title_devices">Devices</string>
+    <string name="ble_not_supported">BLE not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="no_data">Unknown Device</string>
+    <string name="unknown_service">Unknown Device</string>
+    <string name="unknown_characteristic">Unknown Device</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connected">Connected</string>
+</resources>

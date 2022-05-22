@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_stop"
+        android:icon="@drawable/stop_icon"
+        android:orderInCategory="3"
+        android:title="Stop"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_connect_devices"
+        android:orderInCategory="2"
+        android:title="Connect"
+        android:fontFamily="@font/open_sans_semibold"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_scan"
+        android:icon="@drawable/scan_icon"
+        android:orderInCategory="4"
+        android:title="Scan"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_num"
+        android:orderInCategory="1"
+        android:title="0"
+        android:fontFamily="@font/open_sans_semibold"
+        app:showAsAction="always" />
+</menu>
